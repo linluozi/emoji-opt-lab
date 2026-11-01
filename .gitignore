@@ -6,3 +6,5 @@ node_modules/
 *.egg-info/
 dist/
 build/
+benchmark/raw/diff_*.jsonl
+benchmark/raw/smoke.json
